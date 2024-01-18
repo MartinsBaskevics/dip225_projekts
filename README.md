@@ -28,5 +28,5 @@ Programma izvada `results.csv` failu, kurā saglabājas komponentes veids, model
 
 Programmā selenium tiek izmantots, lai piekļūtu `ss.com` mājaslapas datoru komplektēšanas, konkrētās komponentes sadaļai un izgūtu datus par lapu skaitu un sludinājumu skaitu lapā. Ir nepieciešama time bibliotēka, lai radītu sekundes aizkavi atļaujot `ss.com`, kā arī pēcāk `pcpricer.net` ielādēties. Saitē `ss.com` tiek piekļūts katram sludinājumam un ar re bibliotēkas palīdzību tiek aprakstīta simbolu virkne intel un amd procesoriem, kā arī nvidia videokartēm, kuras jāizgūst no sludinājuma apraksta. Ar csv bibliotēku tiek izveidots csv fails, kurā tiek ierakstīta un saglabāta izgūtā informācija no abām saitēm `ss.com` un `pcpricer.net`.
 
-### Necessary resources
-To address this problem set, you can refer to the tutorial video [here](https://youtu.be/vsrxkJ9HF24), which provides guidance on processing PDF files. Additionally, example source code can be accessed on GitHub at [this link](https://github.com/ajurenoks/dip225_3).
+### Video piemērs
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/u2nRiC_fTWU/0.jpg)](https://www.youtube.com/watch?v=u2nRiC_fTWU)
